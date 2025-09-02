@@ -1,0 +1,67 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/prash/Desktop/system verilog
+X_01_Basic_keywords_and_ranges_sv_unit
+Z0 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+V5d^d3i3^W0;keHXD>Ha[X2
+r1
+!s85 0
+!i10b 1
+!s100 =`HFI1`]Y0F;ZNi8gC9az3
+I5d^d3i3^W0;keHXD>Ha[X2
+!i103 1
+S1
+Z1 dC:/Users/prash/Desktop/Constraint Random Verifiaction
+Z2 w1756796192
+Z3 801_Basic_keywords_and_ranges.sv
+Z4 F01_Basic_keywords_and_ranges.sv
+L0 9
+Z5 OL;L;10.7c;67
+31
+Z6 !s108 1756796195.000000
+Z7 !s107 01_Basic_keywords_and_ranges.sv|
+Z8 !s90 -reportprogress|300|-sv|01_Basic_keywords_and_ranges.sv|
+!i113 0
+Z9 o-sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+n@_01_@basic_keywords_and_ranges_sv_unit
+T_opt
+!s110 1756796197
+VMUSo1_bk]gK9o;8WI9Bm[3
+04 21 4 work top_basic_constraints fast 0
+=1-d41b810174b1-68b69525-3a-1618
+o-quiet -auto_acc_if_foreign -work work +acc
+R10
+n@_opt
+OL;O;10.7c;67
+vtop_basic_constraints
+R0
+DXx4 work 37 _01_Basic_keywords_and_ranges_sv_unit 0 22 5d^d3i3^W0;keHXD>Ha[X2
+VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 K:RZhIz7DVV4JQcKT?a0Q0
+IMmY6RBhM_Och>27hHlUzG3
+!s105 _01_Basic_keywords_and_ranges_sv_unit
+S1
+R1
+R2
+R3
+R4
+L0 49
+R5
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
