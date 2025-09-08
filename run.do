@@ -1,6 +1,6 @@
 
 
 vlib work
-vlog -sv 01_Basic_keywords_and_ranges.sv
-vsim -voptargs=+acc work.top_basic_constraints
+vlog -sv 10_Inline_Soft_constraints.sv
+vsim -voptargs=+acc work.top_inline_soft
 run -all
